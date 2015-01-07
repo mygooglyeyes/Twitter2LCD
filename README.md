@@ -16,4 +16,4 @@ All of these programs were adaptations of existing ones that were either demos, 
 
 Full instructions, and attributions are found in my blog post: http://resistanceisfundamental.blogspot.com/2015/01/let-it-scroll-let-it-scroll-let-it.html
 
-Please note, the post is about the neopixel shield, - but they both the LCD and NeoPixels work in almost the same way, so just use the appropriate arduino code. 
+Please note, the post is about the neopixel shield, - but the LCD and NeoPixels work in almost the same way, so just use the appropriate arduino code. 
