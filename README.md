@@ -1,4 +1,4 @@
-# Twitter2LCD
+# Twitter2Display
 Twitter to scrolling LCD display ( Adafruit LCD backpack for Arduino)
 
 This project querries Twitter (default is 'adafruit') and then depending on your display, scrolls the tweets accross a 16 x 2 LCD screen or neopixel matrix.
