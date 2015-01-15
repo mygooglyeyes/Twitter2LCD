@@ -45,7 +45,7 @@ const uint16_t colors[] =
 
 void setup()
 {
-	Serial.begin(9600);	//turn on the serial connection
+	Serial.begin(115200);	//turn on the serial connection
 	matrix.begin();  	//initalize the matrix
 	matrix.setTextWrap(false);
 	matrix.setBrightness(40);
